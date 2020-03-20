@@ -1,1 +1,1 @@
-# boxmaster
+# Box Class
